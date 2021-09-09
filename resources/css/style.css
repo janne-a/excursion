@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    
+}
+
+p {
+    font-size: 21px;
+}
+
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+
+}
+
+.grey {
+    color: grey;
+}
+
+.right {
+    text-align: right;
+}
